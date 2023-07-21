@@ -3,6 +3,7 @@
 Greetings! I'm Koushik Yemula and I'm currently a sophomore pursuing a Bachelor of technology in Computer science and engineering. I'm part of the 2021-24 batch. As an ambitious individual with a deep passion for technology, I'm highly motivated to excel in the field of computer science. My dedication to learning and exploring new technologies has helped me develop a strong foundation in programming, web development, and database management. I'm excited to continue building my skills and knowledge in this field, and I'm confident that my enthusiasm and drive will lead to future success.
 
 ---
+[![](https://visitcount.itsvg.in/api?id=BlitZSenpai&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=blitzsenpai&theme=github">
 
