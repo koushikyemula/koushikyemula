@@ -1,6 +1,6 @@
 # Koushik Yemula
 
-Hello! I'm Koushik Yemula, and I'm currently in my third year pursuing a Bachelor of Technology in Computer Science with Artificial Intelligence and Machine Learning. I'm part of the 2021-25 group. My insatiable passion for technology propels me towards a future of excellence in this field. With a robust foundation in programming, web development, and database management, which I've diligently cultivated through relentless exploration and dedicated learning, I'm excited to continue building my skills and knowledge in this field, and I'm confident that my enthusiasm and drive will lead to future success.
+Hello! I'm Koushik Yemula, and I'm currently in my third year pursuing a Bachelor of Technology in Computer Science with Artificial Intelligence and Machine Learning. I'm part of the 2021-25 group. My insatiable passion for technology propels me towards a future of excellence in this field. With a robust foundation in programming, web development, and database management, I'm excited to continue building my skills and knowledge in this field, and I'm confident that my enthusiasm and drive will lead to future success.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BlitZSenpai&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
