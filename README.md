@@ -16,8 +16,6 @@ Hello! I'm Koushik Yemula, and I'm currently in my third year pursuing a Bachelo
 
 1. Microsoft Certified Azure Fundamentals
 
-This certification has facilitated the refinement of my Deployment skills in diverse domains, ranging from Client-Side to Server-Side. Furthermore, they have imparted to me a comprehensive understanding of cloud technology, which is an essential element of contemporary computing.
-
 ## 👨🏻‍💻 Development Career
 
 - I possess a strong command of industry-standard web application development, with a focus on scalability and robustness.
