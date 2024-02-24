@@ -1,6 +1,6 @@
 # Koushik Yemula
 
-Hello! I'm Koushik Yemula, and I'm currently in my third year pursuing a Bachelor of Technology in Computer Science with Artificial Intelligence and Machine Learning. I'm part of the 2021-25 group. My insatiable passion for technology propels me towards a future of excellence in this field. With a robust foundation in programming, web development, and database management, I'm excited to continue building my skills and knowledge in this field, and I'm confident that my enthusiasm and drive will lead to future success.
+Hello! I'm Koushik Yemula, and I'm currently in my third year pursuing a Bachelor of Technology in Computer Science with Artificial Intelligence and Machine Learning. I'm part of the 2021-25 batch. My insatiable passion for technology propels me towards a future of excellence in this field. With a robust foundation in programming, web development, and database management, I'm excited to continue building my skills and knowledge in this field, and I'm confident that my enthusiasm and drive will lead to future success.
 
 ---
 [![Portfolio](https://img.shields.io/badge/-portfolio-black?style=flat-square?style=for-the-badge&logo=ko-fi&logoColor=white)](https://koushik-port.vercel.app) &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Koushik%20Yemula%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharath-bandi/)](https://www.linkedin.com/in/koushik-yemula) &nbsp;[![Gmail Badge](https://img.shields.io/badge/-koushikyemula@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bharath.Lkb@outlook.com)](koushikyemula@gmail.com) [![](https://visitcount.itsvg.in/api?id=BlitZSenpai&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
@@ -9,7 +9,7 @@ Hello! I'm Koushik Yemula, and I'm currently in my third year pursuing a Bachelo
 
 ## 📚 Education
 
-- Bachelor of technology in computer science and engineering
+- Bachelor of technology in computer science and engineering with artificial intelligence and machine learning
 - Relevant coursework: Cloud Engineering, Cloud Architecting, Data Structures, Software Engineering
 
 ## 🏆 Academic Achievements
