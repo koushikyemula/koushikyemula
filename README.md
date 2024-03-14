@@ -3,9 +3,9 @@
 Hello! I'm Koushik Yemula, and I'm currently in my third year pursuing a Bachelor of Technology in Computer Science with Artificial Intelligence and Machine Learning. I'm part of the 2021-25 batch. My insatiable passion for technology propels me towards a future of excellence in this field. With a robust foundation in programming, web development, and database management, I'm excited to continue building my skills and knowledge in this field, and I'm confident that my enthusiasm and drive will lead to future success.
 
 ---
-[![Portfolio](https://img.shields.io/badge/-portfolio-black?style=flat-square?style=for-the-badge&logo=ko-fi&logoColor=white)](https://koushik-port.vercel.app) &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Koushik%20Yemula%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharath-bandi/)](https://www.linkedin.com/in/koushik-yemula) &nbsp;[![Gmail Badge](https://img.shields.io/badge/-koushikyemula@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bharath.Lkb@outlook.com)](koushikyemula@gmail.com) [![](https://visitcount.itsvg.in/api?id=BlitZSenpai&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![Portfolio](https://img.shields.io/badge/-portfolio-black?style=flat-square?style=for-the-badge&logo=ko-fi&logoColor=white)](https://koushik-port.vercel.app) &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Koushik%20Yemula%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharath-bandi/)](https://www.linkedin.com/in/koushik-yemula) &nbsp;[![Gmail Badge](https://img.shields.io/badge/-koushikyemula@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:koushikyemula@gmail.com)](koushikyemula@gmail.com) [![](https://visitcount.itsvg.in/api?id=koushikyemula&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=blitzsenpai&theme=github">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=koushikyemula&theme=github">
 
 ## 📚 Education
 
@@ -36,11 +36,11 @@ Hello! I'm Koushik Yemula, and I'm currently in my third year pursuing a Bachelo
 
 <p align="center" >
  
-  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=blitzsenpai&show_icons=true&theme=dark#gh-dark-mode-only" />
-    <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blitzsenpai&layout=compact&langs_count=6&theme=dark#gh-dark-mode-only" />
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=blitzsenpai&theme=dark#gh-dark-mode-only" />
+  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=koushikyemula&show_icons=true&theme=dark#gh-dark-mode-only" />
+    <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikyemula&layout=compact&langs_count=6&theme=dark#gh-dark-mode-only" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=koushikyemula&theme=dark#gh-dark-mode-only" />
 </p>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=blitzsenpai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=koushikyemula&theme=radical&no-frame=false&no-bg=true&margin-w=4)
