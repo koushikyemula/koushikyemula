@@ -27,7 +27,7 @@ Hello! I'm Koushik Yemula, and I'm currently in my third year pursuing a Bachelo
 
 <div style="text-align: center; margin: 20px">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,nextjs,nodejs,express,html,css,sass,azure,mongodb,docker,mysql,graphql,postman,c,java,python,bootstrap,git,github,firebase,bash,tailwind,figma,linux,babel,vscode&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,nextjs,nodejs,express,html,css,sass,azure,aws,go,postgres,vim,mongodb,docker,mysql,graphql,postman,c,java,python,bootstrap,git,github,firebase,bash,tailwind,figma,linux,babel,vscode&perline=7)](https://skillicons.dev)
 
 </div>
 
