@@ -1,3 +1,3 @@
-#KoushikYemula
+# Koushik Yemula
 
 I use Neovim btw
